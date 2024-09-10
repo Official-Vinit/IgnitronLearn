@@ -1,0 +1,151 @@
+<resources>
+    <string name="app_name">Ignitron Learn</string>
+        <string name="Earthquake">Earthquake</string>
+        <string name="earthquakeTodo">- Immediately drop to the ground.\n\n- Take cover under a sturdy table or desk.\n\n- Hold on until the shaking stops.\nStay inside, away from windows.\n\n- If outdoors, stay in the open away from buildings.\n\n- If driving, pull over and stay inside.\n\n- After shaking stops, check yourself and others.\n\n- Be prepared for more shaking.\n\n- Follow official instructions.\n\n- Assist neighbors if possible.</string>
+        <string name="earthquakeHelpline">- <b>National Disaster Response Force (NDRF)</b>: 011–26701728, 011–26701729\n\n- <b>State Emergency Operation Cent ers (SEOCs)</b>: Each state in India has its own emergency helpline numbers.\n\nHere are a few examples:\n\n<b>Delhi</b>: 1077 (Disaster Management)\n\n<b>Maharashtra</b>: 022–22027990, 022–22025274\n\n<b>Gujarat</b>: 1070 (Disaster Management)\n\n<b>Uttar Pradesh</b>: 1070 (Disaster Management)\n\n<b>Andhra Pradesh</b>: 0863–2234334\n\n<b>Kerala</b>: 0471–2331639, 0471–2333198\n\n<b>Tamil Nadu</b>: 1070 (Disaster Management)\n\n<b>West Bengal</b>: 1070 (Disaster Management)\n\n<b>Assam</b>: 1070 (Disaster Management)\n\n<b>Rajasthan</b>: 0141–2225624\n\n\n<b>Additionally</b>:\n\n<b>Police</b>: 100\n\n<b>Emergency Medical Service</b>: 108</string>
+        <string name="earthquakeNews">https://www.bbc.co.uk/search?q=earthquake&amp;seqId=8df17f00–5afb-11ef-959a-1f9824475c6e&amp;d=news_gnl&amp;edgeauth=eyJhbGciOiAiSFMyNTYiLCAidHlwIjogIkpXVCJ9.eyJrZXkiOiAiZmFzdGx5LXVyaS10b2tlbi0xIiwiZXhwIjogMTcyMzcyMjQ5NiwibmJmIjogMTcyMzcyMjEzNiwicmVxdWVzdHVyaSI6ICIlMkZzZWFyY2glM0ZxJTNEZWFydGhxdWFrZSUyNnNlcUlkJTNEOGRmMTdmMDAtNWFmYi0xMWVmLTk1OWEtMWY5ODI0NDc1YzZlJTI2ZCUzRG5ld3NfZ25sIn0.WZJNlfk5TcRJ_1SgWqt0_W_0VSRX1UaZn4Z19qjBXNg</string>
+        <string name="Fire">Fire</string>
+        <string name="fireTodo">
+        " "- Get out of the building immediately.\n\n
+        - Call the fire department.\n\n
+        - Do not attempt to extinguish a large fire yourself.\n\n
+        - If trapped, stay low to the ground to avoid smoke inhalation.\n\n
+        - Close doors behind you to slow the spread of fire.</string>
+        <string name ="fireHelpline">
+        " "- Fire Emergency: 101\n\n
+        - National Emergency Number: 112\n\n
+        - Delhi\n
+            Delhi Fire Service Control Room: +91-11-23411234\n\n
+        - Mumbai\n
+            Mumbai Fire Brigade Control Room: +91-22-23085991 / +91-22-23076111\n\n
+        - Bengaluru\n
+            Bengaluru Fire Service Control Room: +91-80-22971500\n\n
+        - Chennai\n
+            Chennai Fire &amp; Rescue Services: +91-44-28594471 / +91-44-28551212\n\n
+        - Kolkata\n
+            Kolkata Fire Brigade Control Room: +91-33-22521165\n\n
+        - Hyderabad\n
+            Hyderabad Fire Service Control Room: +91-40-23321487
+</string>
+        <string name="fireNews">https://www.bbc.co.uk/search?q=house+fire&amp;seqId=02dde650–5afc-11ef-bfc4-dba2c0546840&amp;d=news_gnl&amp;edgeauth=eyJhbGciOiAiSFMyNTYiLCAidHlwIjogIkpXVCJ9.eyJrZXkiOiAiZmFzdGx5LXVyaS10b2tlbi0xIiwiZXhwIjogMTcyMzcyMjY5NiwibmJmIjogMTcyMzcyMjMzNiwicmVxdWVzdHVyaSI6ICIlMkZzZWFyY2glM0ZxJTNEaG91c2UlMkJmaXJlJTI2c2VxSWQlM0QwMmRkZTY1MC01YWZjLTExZWYtYmZjNC1kYmEyYzA1NDY4NDAlMjZkJTNEbmV3c19nbmwifQ.GAq5uKXiOLVbnf9eZ7IKLmSjeTJ-BylX4KR30w0SuxA</string>
+        <string name="Flood">Flood</string>
+        <string name="floodTodo">
+        " "- Evacuate if instructed to do so.\n\n
+        - Avoid walking or driving through floodwaters.\n\n
+        - Unplug electrical appliances.\n\n
+        - Be aware of the dangers of mold after floodwaters recede.\n\n
+        - Listen to the radio for updates.\n\n
+    </string>
+        <string name="FloodNews">https://www.bbc.co.uk/search?q=flood&amp;seqId=02dde650–5afc-11ef-bfc4-dba2c0546840&amp;d=news_gnl&amp;edgeauth=eyJhbGciOiAiSFMyNTYiLCAidHlwIjogIkpXVCJ9.eyJrZXkiOiAiZmFzdGx5LXVyaS10b2tlbi0xIiwiZXhwIjogMTcyMzcyMjgwNCwibmJmIjogMTcyMzcyMjQ0NCwicmVxdWVzdHVyaSI6ICIlMkZzZWFyY2glM0ZxJTNEZmxvb2QlMjZzZXFJZCUzRDAyZGRlNjUwLTVhZmMtMTFlZi1iZmM0LWRiYTJjMDU0Njg0MCUyNmQlM0RuZXdzX2dubCJ9.ExmBrlmHwIkFeGnUr6isCp0qz_-cSM9INxewPcn4LU4</string>
+        <string name="floodHelpline">
+        " "- National Disaster Response Force (NDRF): 011–26701728, 011–26701729\n\n
+        Delhi\n
+- Delhi Flood Control Room: +91-11-23811388 / +91-11-23811489\n\n
+Mumbai\n
+- Mumbai Disaster Management Control Room: +91-22-22694725 / +91-22-22694727\n\n
+Bengaluru\n
+- BBMP (Bruhat Bengaluru Mahanagara Palike) Flood Helpline: +91-80-22660000 / +91-80-22660001\n\n
+Chennai\n
+- Chennai Flood Control Room: +91-44-25384530 / +91-44-25384540\n\n
+Kolkata\n
+- Kolkata Municipal Corporation Flood Helpline: +91-33-22861212 / +91-33-22861313\n\n
+Hyderabad\n
+- GHMC (Greater Hyderabad Municipal Corporation) Flood Helpline: +91-40-21111111\n\n
+Ahmedabad\n
+- Ahmedabad Municipal Corporation Flood Helpline: +91-79-25391811 / +91-79-27560778\n\n
+Pune\n
+- Pune Municipal Corporation Flood Helpline: +91-20-25501125 / +91-20-25501120\n\n
+Jaipur\n
+- Jaipur Municipal Corporation Flood Helpline: +91-141-2560327\n\n
+Lucknow\n
+- Lucknow Municipal Corporation Flood Helpline: +91-522-2612144\n\n
+Thiruvananthapuram\n
+- Thiruvananthapuram Flood Control Room: +91-471-2333101 / +91-471-2730045
+    </string>
+        <string name="Thunder">Thunderstorm</string>
+        <string name="thunderTodo">
+        " "- Seek shelter indoors.\n\n
+- Avoid using electronic devices.\n\n
+- Stay away from windows and doors.\n\n
+- If outdoors, find a low-lying area away from trees and open spaces.\n\n
+- Listen to the radio for weather updates.\n
+    </string>
+        <string name="thunderHelpline">
+        " "- National Disaster Response Force (NDRF): 011–26701728, 011–26701729\n\n
+- Delhi\n\n
+Delhi Thunderstorm Control Room: +91-11-23811388 / +91-11-23811489\n
+- Mumbai\n
+Mumbai Disaster Management Control Room: +91-22-22694725 / +91-22-22694727\n\n
+- Bengaluru\n
+BBMP (Bruhat Bengaluru Mahanagara Palike) Control Room: +91-80-22660000 / +91-80-22660001\n\n
+- Chennai\n
+Chennai Disaster Management Control Room: +91-44-25384530 / +91-44-25384540\n\n
+- Kolkata\n
+Kolkata Municipal Corporation Control Room: +91-33-22861212 / +91-33-22861313\n\n
+- Hyderabad\n
+GHMC (Greater Hyderabad Municipal Corporation) Control Room: +91-40-21111111\n\n
+- Ahmedabad\n
+Ahmedabad Municipal Corporation Control Room: +91-79-25391811 / +91-79-27560778\n\n
+- Pune\n
+Pune Municipal Corporation Control Room: +91-20-25501125 / +91-20-25501120\n\n
+- Jaipur\n
+Jaipur Municipal Corporation Control Room: +91-141-2560327\n\n
+- Lucknow\n
+Lucknow Municipal Corporation Control Room: +91-522-2612144\n\n
+- Thiruvananthapuram\n
+Thiruvananthapuram Control Room: +91-471-2333101 / +91-471-2730045\n\n
+    </string>
+        <string name="ThunderNews">https://www.bbc.co.uk/search?q=thunderstorm&amp;seqId=02dde650–5afc-11ef-bfc4-dba2c0546840&amp;d=news_gnl&amp;edgeauth=eyJhbGciOiAiSFMyNTYiLCAidHlwIjogIkpXVCJ9.eyJrZXkiOiAiZmFzdGx5LXVyaS10b2tlbi0xIiwiZXhwIjogMTcyMzcyMjkzOCwibmJmIjogMTcyMzcyMjU3OCwicmVxdWVzdHVyaSI6ICIlMkZzZWFyY2glM0ZxJTNEdGh1bmRlcnN0b3JtJTI2c2VxSWQlM0QwMmRkZTY1MC01YWZjLTExZWYtYmZjNC1kYmEyYzA1NDY4NDAlMjZkJTNEbmV3c19nbmwifQ.hhlEdmdsT2DK4aKISCJC2cCfEJDyHAU8CJLEiilBbFc</string>
+        <string name="Storm">Storm</string>
+        <string name="stormTodo">
+        " "- Secure loose outdoor objects.\n\n
+    - Stay indoors during the storm.\n\n
+    - Avoid driving if possible.\n\n
+    - Be prepared for power outages.\n\n
+        - Listen to the radio for warnings.</string>
+        <string name="stormHelpline">
+        " "- National Disaster Response Force (NDRF): 011–26701728, 011–26701729\n\n
+        - Delhi\n
+Delhi Windstorm Control Room: +91-11-23811388 / +91-11-23811489\n\n
+- Mumbai\n
+Mumbai Disaster Management Control Room: +91-22-22694725 / +91-22-22694727\n\n
+- Bengaluru\n
+BBMP (Bruhat Bengaluru Mahanagara Palike) Control Room: +91-80-22660000 / +91-80-22660001\n\n
+- Chennai\n
+Chennai Disaster Management Control Room: +91-44-25384530 / +91-44-25384540\n\n
+- Kolkata\n
+Kolkata Municipal Corporation Control Room: +91-33-22861212 / +91-33-22861313\n\n
+- Hyderabad\n
+GHMC (Greater Hyderabad Municipal Corporation) Control Room: +91-40-21111111\n\n
+- Ahmedabad\n
+Ahmedabad Municipal Corporation Control Room: +91-79-25391811 / +91-79-27560778\n\n
+- Pune\n
+Pune Municipal Corporation Control Room: +91-20-25501125 / +91-20-25501120\n\n
+- Jaipur\n
+Jaipur Municipal Corporation Control Room: +91-141-2560327\n\n
+- Lucknow\n
+Lucknow Municipal Corporation Control Room: +91-522-2612144\n\n
+- Thiruvananthapuram\n
+Thiruvananthapuram Control Room: +91-471-2333101 / +91-471-2730045</string>
+        <string name="StormNews">https://www.bbc.co.uk/search?q=strong+winds&amp;seqId=02dde650–5afc-11ef-bfc4-dba2c0546840&amp;d=news_gnl&amp;edgeauth=eyJhbGciOiAiSFMyNTYiLCAidHlwIjogIkpXVCJ9.eyJrZXkiOiAiZmFzdGx5LXVyaS10b2tlbi0xIiwiZXhwIjogMTcyMzcyMzAzNiwibmJmIjogMTcyMzcyMjY3NiwicmVxdWVzdHVyaSI6ICIlMkZzZWFyY2glM0ZxJTNEc3Ryb25nJTJCd2luZHMlMjZzZXFJZCUzRDAyZGRlNjUwLTVhZmMtMTFlZi1iZmM0LWRiYTJjMDU0Njg0MCUyNmQlM0RuZXdzX2dubCJ9.epaQT0p_9vk-Y0wj1sAbOb_pF4dn6CAXCiMUq247lW4</string>
+        <string name="Cyclone">Cyclone</string>
+        <string name="CycloneTodo">
+    " "- Stay Indoors: Keep away from windows and doors.\n\n
+    - Turn Off Power: Disconnect electrical appliances to prevent surges.\n\n
+    - Stay Calm: Listen to official instructions and updates.\n\n
+    - Emergency Communication: Keep emergency contacts handy and use phones only for important calls.\n\n
+        - Evacuate if Needed: Move to higher ground or a designated shelter if instructed.</string>
+        <string name="Tsunami">Tsunami</string>
+        <string name="TsunamiTodo">
+    " "- Evacuate Immediately: Move to higher ground if you feel an earthquake or receive a warning.\n\n
+    - Avoid the Coast: Stay away from beaches and low-lying areas.\n\n
+    - Listen to Authorities: Follow official instructions on radio or mobile alerts.\n\n
+    - Stay Indoors: If unable to evacuate, move to the highest floor of a sturdy building.</string>
+        <string name="RoadAccident">Road Accident</string>
+        <string name="RoadAccidentTodo">
+    " "- Stay Calm: Take deep breaths to stay focused.\n\n
+    - Check for Injuries: Assess yourself and passengers for injuries.\n\n
+    - Move to Safety: If possible, move the vehicle to the side of the road to avoid further collisions.\n\n
+    - Turn on Hazard Lights: Alert other drivers to the accident.\n\n
+    - Call Emergency Services: Dial 112 for police, ambulance, and fire services.</string>
+</resources>
